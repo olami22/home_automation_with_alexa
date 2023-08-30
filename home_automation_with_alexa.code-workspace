@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "home_automation_with_alexa",
+			"path": ".."
+		},
+		{
+			"name": "awe",
+			"path": "../../awe"
+		}
+	],
+	"settings": {}
+}
